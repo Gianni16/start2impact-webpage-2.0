@@ -32,6 +32,14 @@ This website showcases my current skills, background, and a few sample projects�
 
 ---
 
+## 🖼️ Homepage Preview
+
+A visual preview of the website's homepage layout and style.
+
+<img src="./portfolio/screenshot.png" width="600" alt="Homepage preview">
+
+---
+
 ## 🧪 Projects
 
 ### ☀️ Weather App
