@@ -1,6 +1,7 @@
 # 🌐 Gianluca Garzone - Web Developer Portfolio
 
 Welcome to my personal portfolio!  
+
 I'm a **junior front-end developer** based in Naples, Italy, currently improving my skills through self-learning and hands-on projects.
 
 This website showcases my current skills, background, and a few sample projects—built with **HTML**, **CSS**, and **JavaScript**.
