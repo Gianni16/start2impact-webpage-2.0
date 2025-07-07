@@ -40,16 +40,6 @@ A visual preview of the website's homepage layout and style.
 
 ---
 
-## 🧪 Projects
-
-### ☀️ Weather App
-A simple weather application built using the [OpenWeatherMap API](https://openweathermap.org/api).  
-Displays current weather conditions based on user input.
-
-<img src="./portfolio/meteo.png" width="600" alt="Weather App preview">
-
----
-
 ## 📫 Contact
 
 Feel free to reach out or connect:
